@@ -9,4 +9,13 @@ Create an object named "p3" whose name is "Jasur"
 
 */
 
-void main() {}
+void main() {
+  Person p1 = Person("Anvar");
+  Person p2 = Person("Shavkat");
+  Person p3 = Person("Jasur");
+}
+
+class Person {
+  String name = "Person";
+  Person(String p1) {}
+}
