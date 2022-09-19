@@ -16,6 +16,6 @@ void main() {
 }
 
 class Person {
-  String name = "Person";
+  String name = "ali";
   Person(String p1) {}
 }
