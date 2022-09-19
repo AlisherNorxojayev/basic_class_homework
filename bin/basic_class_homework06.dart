@@ -8,5 +8,5 @@ void main() {}
 
 class Person {
   String name = "ali";
-  int age = 1;
+  int age = 25;
 }
